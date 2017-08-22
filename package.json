@@ -1,0 +1,24 @@
+{
+  "name": "nothing",
+  "version": "0.0.1",
+  "description": "Nothing based on nothing doing nothing",
+  "main": "nothing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickthesing/Nothing.git"
+  },
+  "keywords": [
+    "nothing",
+    "nothing",
+    "nothing"
+  ],
+  "author": "Nick Thesing <nickthesing@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickthesing/Nothing/issues"
+  },
+  "homepage": "https://github.com/nickthesing/Nothing#readme"
+}
